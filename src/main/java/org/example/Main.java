@@ -14,7 +14,6 @@ public class Main extends JFrame {
     private static final Color HOVER_COLOR = new Color(44, 45, 48);       // Subtle hover
     private static final Color CARD_BACKGROUND = new Color(41, 42, 45);   // Slightly lighter than background
     private static final Color SECONDARY_TEXT = new Color(154, 160, 166); // Muted text
-    private static final Font PROGRESS_FONT = new Font("Segue UI", Font.PLAIN, 14);
 
 
     private final JPanel mainContentPanel;
