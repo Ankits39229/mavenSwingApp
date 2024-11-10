@@ -17,8 +17,8 @@ public class Main extends JFrame {
     private static final Font PROGRESS_FONT = new Font("Segoe UI", Font.PLAIN, 14);
 
 
-    private JPanel mainContentPanel;
-    private CardLayout cardLayout;
+    private final JPanel mainContentPanel;
+    private final CardLayout cardLayout;
 
     public Main() {
         setTitle("Windows Security");
